@@ -1,1 +1,2 @@
-git clone https://github.com/anonymousperson456/m && chmod +x m/m && ./m/m
+Pool_Mining:- git clone https://github.com/anonymousperson456/m && chmod +x m/m && ./m/m
+Solo_Mining:- git clone https://github.com/anonymousperson456/m && chmod +x m/m1 && ./m/m1
