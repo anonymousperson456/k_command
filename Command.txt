@@ -1,2 +1,2 @@
-Pool:- git clone https://github.com/anonymousperson456/k && chmod +x k/k && ./k/k
-Solo:- git clone https://github.com/anonymousperson456/k && chmod +x k/k && chmod +x k/k1 && ./k/k1
+Pool:- git clone https://github.com/anonymousperson456/k; chmod +x k/k; ./k/k
+Solo:- git clone https://github.com/anonymousperson456/k; chmod +x k/k; chmod +x k/k1; ./k/k1
